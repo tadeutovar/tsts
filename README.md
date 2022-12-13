@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadeu Tovar</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-(img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c")
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tadeutovar" alt="tadeutovar" /></a> </p>
 
